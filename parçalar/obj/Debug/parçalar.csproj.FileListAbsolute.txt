@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\parçalar\parçalar\bin\Debug\parçalar.exe.config
+C:\Users\User\source\repos\parçalar\parçalar\bin\Debug\parçalar.exe
+C:\Users\User\source\repos\parçalar\parçalar\bin\Debug\parçalar.pdb
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.Form1.resources
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.Properties.Resources.resources
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.csproj.GenerateResource.cache
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.exe
+C:\Users\User\source\repos\parçalar\parçalar\obj\Debug\parçalar.pdb
